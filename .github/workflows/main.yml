@@ -15,5 +15,5 @@ jobs:
       uses: zanderzhao/gitbook-action@v1.2.4
       with:
         token: ${{ secrets.PERSONAL_TOKEN }}
-        source_branch: main
+        source_branch: master
         publish_dir: /docs
