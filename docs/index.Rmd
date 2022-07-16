@@ -1,0 +1,22 @@
+--- 
+title: "现代科研指北"
+author: "于淼"
+date: "`r Sys.Date()`"
+documentclass: book
+biblio-style: apalike
+description: 才疏学浅，不知何为真，仅通少错之法，故不敢言南，仅指北。或曰：现代科研挖坑／跳坑指南。
+cover-image: "cover.png"
+link-citations: yes
+site: bookdown::bookdown_site
+mainfontoptions: STHeiti
+sansfontoptions: STFangsong
+monofontoptions: STKaiti
+---
+
+> 献给那些勤于思考的科研探索者。
+
+# 致谢{-}
+
+这本书会通过协作方式不断在线更新，版本号从2.7开始，会以自然底数为模版不断增长，没有尽头。在此特别感谢谢益辉博士开发的 [bookdown](https://bookdown.org/yihui/bookdown/) 包，没有基于 rmarkdown 的完整软件生态，这本书不会落地。
+
+本书感谢知乎 @羲洁、张汇泉、 @wogong 对书稿的校正，特别感谢电子工业出版社付睿与许艳老师对本书出版的帮助。
